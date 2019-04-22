@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import PopupController_iOS
 
 class DemoPopupViewController3: UIViewController {
     @IBOutlet weak var scrollView: UIScrollView!
