@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import PopupController_iOS
+import PopupController
 
 final class DemoPopupViewController4: UIViewController {
 

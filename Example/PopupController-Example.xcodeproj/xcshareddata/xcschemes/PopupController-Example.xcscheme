@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D468A001C63601D00AF56C7"
-               BuildableName = "PopupController.app"
-               BlueprintName = "PopupController"
-               ReferencedContainer = "container:PopupController.xcodeproj">
+               BuildableName = "PopupController-Example.app"
+               BlueprintName = "PopupController-Example"
+               ReferencedContainer = "container:PopupController-Example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "9D468A141C63601D00AF56C7"
                BuildableName = "PopupControllerTests.xctest"
                BlueprintName = "PopupControllerTests"
-               ReferencedContainer = "container:PopupController.xcodeproj">
+               ReferencedContainer = "container:PopupController-Example.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D468A001C63601D00AF56C7"
-            BuildableName = "PopupController.app"
-            BlueprintName = "PopupController"
-            ReferencedContainer = "container:PopupController.xcodeproj">
+            BuildableName = "PopupController-Example.app"
+            BlueprintName = "PopupController-Example"
+            ReferencedContainer = "container:PopupController-Example.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D468A001C63601D00AF56C7"
-            BuildableName = "PopupController.app"
-            BlueprintName = "PopupController"
-            ReferencedContainer = "container:PopupController.xcodeproj">
+            BuildableName = "PopupController-Example.app"
+            BlueprintName = "PopupController-Example"
+            ReferencedContainer = "container:PopupController-Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D468A001C63601D00AF56C7"
-            BuildableName = "PopupController.app"
-            BlueprintName = "PopupController"
-            ReferencedContainer = "container:PopupController.xcodeproj">
+            BuildableName = "PopupController-Example.app"
+            BlueprintName = "PopupController-Example"
+            ReferencedContainer = "container:PopupController-Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

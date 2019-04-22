@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import PopupController_iOS
+import PopupController
 
 class DemoPopupViewController2: UIViewController, PopupContentViewController, UITableViewDataSource {
     

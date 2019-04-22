@@ -1,6 +1,6 @@
 //
-//  PopupController_iOS.h
-//  PopupController-iOS
+//  PopupController.h
+//  PopupController
 //
 //  Created by Takuya Ohsawa on 2019/04/22.
 //  Copyright © 2019 Daisuke Sato. All rights reserved.
